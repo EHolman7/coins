@@ -54,6 +54,6 @@ function coinCounter(amount){
 	pennyWorth = pennyCoins * pennies;
 }
 
-coinCounter(1.72);
+coinCounter(3.67);
 
 console.log(quarterCoins, dimeCoins, nickelCoins, pennyCoins);
